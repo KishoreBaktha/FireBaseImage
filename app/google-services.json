@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "897584565702",
+    "firebase_url": "https://fir-image-aacab.firebaseio.com",
+    "project_id": "fir-image-aacab",
+    "storage_bucket": "fir-image-aacab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897584565702:android:5d7b35e3c039e91d",
+        "android_client_info": {
+          "package_name": "com.example.kishorebaktha.firebaseimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897584565702-1a7o0vp7mi5iufn8pbsp0mda4ohgf2d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kishorebaktha.firebaseimage",
+            "certificate_hash": "99470057071ca0531fee2b67402591158a15158e"
+          }
+        },
+        {
+          "client_id": "897584565702-curkgtg0r46sgo0rr4j4ca082vvlmes5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD75hP91LLiBhnhDc_P7xP843XMubeU9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897584565702-curkgtg0r46sgo0rr4j4ca082vvlmes5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
